@@ -114,29 +114,6 @@ Before running the project locally, ensure you have:
 - [Pera Wallet](https://perawallet.app/) mobile or extension
 - Git installed
 
----
-
-***Installation Steps***
-
-**Clone the repository:**
-
-git clone https://github.com/your-username/AlgoBounty.git
-cd AlgoBounty
-
-**Install frontend dependencies:**
-
-`npm install`
-
-**Build and deploy smart contracts using AlgoKit:**
-
-`algokit project run build`
-
-**Start the development server:**
-
-`npm run dev`
-
-Visit http://localhost:3000 to view the running dApp.
-
 ***License***
 
 This project is licensed under the MIT License.
